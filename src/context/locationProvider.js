@@ -5,7 +5,7 @@ import axios from "axios";
 
 
 export const LocationContext = createContext()
-const APIkey = 'd80c8ff3ae6c97309a86046f3ffd186a'
+const APIkey = 'd80c8ff3ae6c973'
 
 const LocationProvider = ({children}) => {
   const [startLocation, setStartLocation] = useState()
