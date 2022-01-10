@@ -28,11 +28,11 @@ page users can see top 50 distance runner with their run distance and username.
 
 
 
-![alt text](https://github.com/patika-128-react-native-bootcamp/Yavuz-Akpinar-Bitirme-Projesi/blob/main/gifs%26pics/1.gif)![alt text](https://github.com/patika-128-react-native-bootcamp/Yavuz-Akpinar-Bitirme-Projesi/blob/main/gifs%26pics/2.gif)
-![alt text](https://github.com/patika-128-react-native-bootcamp/Yavuz-Akpinar-Bitirme-Projesi/blob/main/gifs%26pics/3.gif)
-![alt text](https://github.com/patika-128-react-native-bootcamp/Yavuz-Akpinar-Bitirme-Projesi/blob/main/gifs%26pics/4.gif)
-![alt text](https://github.com/patika-128-react-native-bootcamp/Yavuz-Akpinar-Bitirme-Projesi/blob/main/gifs%26pics/5.gif) <img src="https://github.com/patika-128-react-native-bootcamp/Yavuz-Akpinar-Bitirme-Projesi/blob/main/gifs%26pics/image1.jpeg" alt="alt text" width="250" height="520">
-<img src="https://github.com/patika-128-react-native-bootcamp/Yavuz-Akpinar-Bitirme-Projesi/blob/main/gifs%26pics/image2.jpeg" alt="alt text" width="250" height="520">
+![alt text](https://github.com/YavuzAkpinar68/RunningApp/blob/main/gifs%26pics/1.gif)![alt text](https://github.com/YavuzAkpinar68/RunningApp/blob/main/gifs%26pics/2.gif)
+![alt text](https://github.com/YavuzAkpinar68/RunningApp/blob/main/gifs%26pics/3.gif)
+![alt text](https://github.com/YavuzAkpinar68/RunningApp/blob/main/gifs%26pics/4.gif)
+![alt text](https://github.com/YavuzAkpinar68/RunningApp/blob/main/gifs%26pics/5.gif) <img src="https://github.com/YavuzAkpinar68/RunningApp/blob/main/gifs%26pics/image1.jpeg" alt="alt text" width="250" height="520">
+<img src="https://github.com/YavuzAkpinar68/RunningApp/blob/main/gifs%26pics/image2.jpeg" alt="alt text" width="250" height="520">
 
 
 
